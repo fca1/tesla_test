@@ -1,0 +1,213 @@
+2017-09-30 09:22:01,381 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-09-30 09:25:45,831 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TeslaClient:TeslaClient:0.0.1-SNAPSHOT @ C:\Dropbox\prospect\EPI\Tesla\TeslaClient\pom.xml.
+2017-09-30 09:25:47,684 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TeslaClient/src
+2017-09-30 09:25:47,685 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TeslaClient/src overlaps with sources folder /TeslaClient/src
+2017-09-30 09:25:47,694 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TeslaClient/src/test/java because it overlaps with /TeslaClient/src
+2017-09-30 09:25:47,893 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-30 09:25:48,607 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: TeslaClient:TeslaClient:0.0.1-SNAPSHOT @ C:\Dropbox\prospect\EPI\Tesla\TeslaClient\pom.xml.
+2017-09-30 09:25:49,084 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TeslaClient/src
+2017-09-30 09:25:49,084 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /TeslaClient/src overlaps with sources folder /TeslaClient/src
+2017-09-30 09:25:49,092 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /TeslaClient/src/test/java because it overlaps with /TeslaClient/src
+2017-09-30 09:25:49,166 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-09-30 09:29:24,580 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2017-09-30 09:29:24,702 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.pom
+2017-09-30 09:29:24,784 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2017-09-30 09:29:24,966 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/33/commons-parent-33.pom
+2017-09-30 09:29:25,062 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2017-09-30 09:29:25,144 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.pom
+2017-09-30 09:29:25,233 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2017-09-30 09:29:25,322 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/35/commons-parent-35.pom
+2017-09-30 09:29:25,407 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-io/1.3.2/commons-io-1.3.2.pom
+2017-09-30 09:29:25,489 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-io/1.3.2/commons-io-1.3.2.pom
+2017-09-30 09:29:25,573 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+2017-09-30 09:29:25,670 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom
+2017-09-30 09:29:25,743 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/3/commons-parent-3.pom
+2017-09-30 09:29:25,830 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/3/commons-parent-3.pom
+2017-09-30 09:29:25,947 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+2017-09-30 09:29:26,024 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+2017-09-30 09:29:26,120 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/us/monoid/web/resty/0.3.2/resty-0.3.2.pom
+2017-09-30 09:29:26,195 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/us/monoid/web/resty/0.3.2/resty-0.3.2.pom
+2017-09-30 09:29:26,271 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/javacc/javacc/4.1/javacc-4.1.pom
+2017-09-30 09:29:26,349 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/javacc/javacc/4.1/javacc-4.1.pom
+2017-09-30 09:29:26,439 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/geocoder-java/geocoder-java/0.15/geocoder-java-0.15.pom
+2017-09-30 09:29:26,511 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/geocoder-java/geocoder-java/0.15/geocoder-java-0.15.pom
+2017-09-30 09:29:26,606 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2017-09-30 09:29:26,684 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.pom
+2017-09-30 09:29:26,798 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2017-09-30 09:29:26,879 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.2/commons-codec-1.2.pom
+2017-09-30 09:29:26,976 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/1.7.2/gson-1.7.2.pom
+2017-09-30 09:29:27,049 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/1.7.2/gson-1.7.2.pom
+2017-09-30 09:29:27,081 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-30 09:29:27,162 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2017-09-30 09:29:27,350 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar
+2017-09-30 09:29:27,422 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2017-09-30 09:29:27,560 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar
+2017-09-30 09:29:27,628 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar
+2017-09-30 09:29:27,746 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar
+2017-09-30 09:29:27,817 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+2017-09-30 09:29:27,952 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar
+2017-09-30 09:29:28,023 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/us/monoid/web/resty/0.3.2/resty-0.3.2.jar
+2017-09-30 09:29:28,132 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/us/monoid/web/resty/0.3.2/resty-0.3.2.jar
+2017-09-30 09:29:28,196 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/dev/javacc/javacc/4.1/javacc-4.1.jar
+2017-09-30 09:29:28,344 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/dev/javacc/javacc/4.1/javacc-4.1.jar
+2017-09-30 09:29:28,504 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/geocoder-java/geocoder-java/0.15/geocoder-java-0.15.jar
+2017-09-30 09:29:28,724 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/geocoder-java/geocoder-java/0.15/geocoder-java-0.15.jar
+2017-09-30 09:29:28,790 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2017-09-30 09:29:28,956 [Worker-10] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar
+2017-09-30 09:29:40,922 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-30 09:29:49,639 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:29:49,640 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B build
+2017-09-30 09:30:02,372 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-09-30 09:30:05,942 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:30:05,942 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-30 09:31:31,832 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:31:31,833 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-30 09:33:08,263 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:33:08,263 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-30 09:33:31,528 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.noroomattheinn:tesla-client:1.1-SNAPSHOT @ C:\Dropbox\prospect\EPI\Tesla\TeslaClient\pom.xml.
+2017-09-30 09:33:31,593 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-30 09:33:32,037 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 09:33:32,038 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 09:33:32,048 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 09:33:32,049 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 09:33:49,744 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:33:49,744 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-09-30 09:34:17,388 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:34:17,388 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2017-09-30 09:34:29,606 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:34:29,606 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2017-09-30 09:50:51,029 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-30 09:51:02,051 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.noroomattheinn:tesla-client:1.1-SNAPSHOT @ C:\Dropbox\prospect\EPI\Tesla\TeslaClient\pom.xml.
+2017-09-30 09:51:02,100 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-30 09:51:02,315 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 09:51:02,326 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 09:51:02,329 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 09:51:02,339 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 09:51:12,644 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:51:12,644 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-09-30 09:51:34,501 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:51:34,501 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-30 09:53:52,964 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:53:52,964 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-09-30 09:54:02,247 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:54:02,247 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-30 09:54:43,842 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-30 09:54:43,860 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 09:54:43,866 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 09:54:43,874 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 09:54:43,874 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 09:55:05,977 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Dropbox\prospect\EPI\Tesla\TeslaClient
+2017-09-30 09:55:05,977 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2017-09-30 14:50:46,616 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-30 14:52:53,200 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-09-30 14:52:53,681 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 14:52:53,681 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 14:52:53,684 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 14:52:53,685 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:10:01,605 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:10:01,606 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:10:01,608 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:10:01,608 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:11:22,076 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:11:22,077 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:11:22,079 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:11:22,079 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:12:28,999 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:12:29,000 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:12:29,015 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:12:29,015 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:14:42,176 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:14:42,176 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:14:42,184 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:14:42,189 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:24:46,380 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:24:46,380 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:24:46,391 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:24:46,399 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:28:14,006 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:28:14,007 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:28:14,017 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:28:14,025 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:28:48,833 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:28:48,833 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:28:48,842 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:28:48,848 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:29:25,116 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:29:25,116 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:29:25,129 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:29:25,136 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:38:27,864 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:38:27,865 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:38:27,873 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:38:27,878 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:38:47,538 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:38:47,538 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:38:47,548 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:38:47,553 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:40:55,961 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:40:55,962 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:40:55,969 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:40:55,975 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:46:07,908 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:46:07,908 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:46:07,922 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:46:07,929 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 15:48:20,555 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:48:20,555 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 15:48:20,565 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 15:48:20,573 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 16:08:28,162 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 16:08:28,162 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 16:08:28,172 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 16:08:28,178 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 17:00:00,836 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:00:00,836 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 17:00:00,847 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:00:00,853 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 17:01:49,895 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:01:49,895 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 17:01:49,910 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:01:49,918 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 17:03:08,695 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:03:08,695 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 17:03:08,706 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:03:08,712 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 17:06:35,065 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:06:35,066 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 17:06:35,084 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:06:35,089 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-09-30 17:08:01,166 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:08:01,167 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-09-30 17:08:01,176 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-30 17:08:01,182 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:20:46,606 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:20:46,607 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-10-02 10:20:46,618 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:20:46,626 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:25:41,405 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:25:41,405 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-10-02 10:25:41,414 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:25:41,421 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:26:35,425 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:26:35,425 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-10-02 10:26:35,435 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:26:35,441 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:29:03,267 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:29:03,268 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-10-02 10:29:03,275 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:29:03,282 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:34:15,880 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:34:15,880 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-10-02 10:34:15,889 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:34:15,895 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:39:08,093 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-02 10:41:29,076 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-10-02 10:41:30,644 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:41:30,645 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\main\resources
+2017-10-02 10:41:30,647 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-02 10:41:30,647 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Dropbox\prospect\EPI\Tesla\TeslaClient\src\test\resources
+2017-10-02 10:48:37,070 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/us/monoid/web/resty/0.3.2/resty-0.3.2-sources.jar
+2017-10-02 10:48:37,579 [Worker-22] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/us/monoid/web/resty/0.3.2/resty-0.3.2-sources.jar
+2017-10-02 10:48:37,826 [Worker-22] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for us.monoid.web:resty:0.3.2
+2017-10-04 16:54:07,569 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-10-04 17:22:14,609 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
