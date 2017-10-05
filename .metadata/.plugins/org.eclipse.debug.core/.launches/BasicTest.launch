@@ -8,6 +8,10 @@
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.noroomattheinn.tesla.test.BasicTest"/>
+<<<<<<< HEAD
+=======
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="frantz.capiez@epi-rf.fr sensei1967"/>
+>>>>>>> e1597c58ed0a62f6fd57ddd8c6e4a4ce574fbf5a
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="TeslaClient"/>
 <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
